@@ -1,0 +1,6 @@
+
+venv/
+.venv/
+
+*.toml
+izutsu.egg-info/
