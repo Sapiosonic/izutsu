@@ -41,7 +41,7 @@ Initial folder structure and architecture:
 
 `application/` This directory will coordinate use cases
 
-`infrastructure`This directory will contain technical implementations
+`infrastructure` This directory will contain technical implementations
 
 This is the core separation of concerns in the application and it will become increasingly valuable as Izutsu grows.
 
